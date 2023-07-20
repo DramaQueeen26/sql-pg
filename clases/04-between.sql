@@ -1,0 +1,1 @@
+SELECT first_name, last_name, followers from users where followers BETWEEN 4600 and 4700
